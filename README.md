@@ -13,3 +13,5 @@ npm start
 ### How to run the unit tests
 
 npm test
+
+npm test -- --coverage

@@ -3,7 +3,7 @@ import './NavigationContainer.css';
 function NavigationContainer() {
   return (
     <nav className="nav-container">
-        <h2>Star Head Search</h2>
+        <h1>Star Head Search</h1>
     </nav>
   );
 }
