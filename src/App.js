@@ -1,10 +1,11 @@
 import './App.css';
+import NavigationContainer from './components/NavigationContainer';
 
 function App() {
+  // useState to render different pages and pass to navigation container
   return (
-    <div className="App">
-      <header className="App-header">
-      </header>
+    <div className="app-container">
+      <NavigationContainer></NavigationContainer>
     </div>
   );
 }
